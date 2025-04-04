@@ -1,5 +1,5 @@
 
-/* Global Styles */
+/* Global Styles */  /* the color seclection mainly depended on my about photo background */
 * {
     margin: 0;
     padding: 0;
@@ -209,7 +209,7 @@ nav {
 }
 
 .project-links a {
-    color: #64ffda;
+    color: #64ffda;    /* choosed this color beacuse of my picture background  */
     margin-right: 15px;
     font-size: 0.9rem;
     text-decoration: none;
@@ -254,7 +254,7 @@ nav {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    section {
+    section { /* decided to use this so as to fit on even small devices well like phones  */
         padding: 80px 30px;
     }
 
